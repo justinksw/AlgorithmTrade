@@ -1,5 +1,5 @@
 # AlgorithmTrade
 
-Main Pakages:
+Main pakages:
 1. Pandas
 2. yfinance
